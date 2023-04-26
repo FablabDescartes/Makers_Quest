@@ -1,0 +1,10 @@
+Paramètres d'impression utilisés (PLA) :
+- Hauteur de couche : 0,15mm
+- Remplissage 100%
+- Supports activés
+
+J'ai également prévu une version SLA sur laquelle il n'y a pas de compensation sur la face du dessus.
+
+Les faces du dé
+Elles sont découpées au laser sur du contreplaqué peuplier 3mm et font très exactement 17.1mm de côté, avec une épaisseur de contour de 0.1mm.
+Le fichier svg est dans les pièces jointes.
