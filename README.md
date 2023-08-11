@@ -9,6 +9,13 @@ C'est un jeu coopératif qui  vous permettra de vous plonger dans l'univers des 
 - Nombre de joueurs : de 2 à 5
 - Durée d'une partie : de 30 à 90min
 
+<figure>
+    <img src="Elements_de_jeu/Photos du jeu/IMG_8297.JPG" width="400" 
+         alt="Le jeu">
+</figure>
+
+*Le jeu*
+
 ## Comment ça marche ?
 
 Ce jeu est entièrement open source. Vous trouverez ici tous les éléments qui vous permettront de le fabriquer dans votre fablab préféré. La matériel minimum requis est constitué d'une découpe laser, d'une imprimante 3D, d'un imprimante 3D, de carton, de bois et de filament 3D de votre choix. 
@@ -20,6 +27,15 @@ Nous avons organisé les contenus de cette documentation en 3 sections :
 
 N'hésitez pas à nous écrire pour toute question ou suggestion par rapport à ce jeu !
 ***L'équipe Makers'Quest***
+
+
+<figure>
+    <img src="laTeamMakersQuest.jpg" width="400" 
+         alt="L'équipe">
+</figure>
+
+*La team*
+
 
 ![logo EU!](/Elements_graphiques/Logos/FR_Cofinance%CC%81_par_l%E2%80%99Union_europe%CC%81enne_POS(1).png)
 
